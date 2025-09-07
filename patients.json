@@ -1,0 +1,102 @@
+{
+    "P001": {
+        "name": "Rahul Verma",
+        "city": "Delhi",
+        "age": 28,
+        "gender": "Male",
+        "height": 175,
+        "weight": 70,
+        "bmi": 22.9,
+        "verdict": "Normal"
+    },
+    "P002": {
+        "name": "Sneha Sharma",
+        "city": "Mumbai",
+        "age": 34,
+        "gender": "Female",
+        "height": 162,
+        "weight": 82,
+        "bmi": 31.2,
+        "verdict": "Obese"
+    },
+    "P003": {
+        "name": "Amit Patel",
+        "city": "Ahmedabad",
+        "age": 45,
+        "gender": "Male",
+        "height": 168,
+        "weight": 90,
+        "bmi": 31.9,
+        "verdict": "Obese"
+    },
+    "P004": {
+        "name": "Priya Nair",
+        "city": "pune",
+        "age": 22,
+        "gender": "Female",
+        "height": 160.0,
+        "weight": 58.0,
+        "bmi": 22.66,
+        "verdict": "Normal"
+    },
+    "P005": {
+        "name": "Arjun Mehta",
+        "city": "Bengaluru",
+        "age": 30,
+        "gender": "Male",
+        "height": 180,
+        "weight": 95,
+        "bmi": 29.3,
+        "verdict": "Overweight"
+    },
+    "P006": {
+        "name": "Kavita Joshi",
+        "city": "Pune",
+        "age": 27,
+        "gender": "Female",
+        "height": 155,
+        "weight": 42,
+        "bmi": 17.5,
+        "verdict": "Underweight"
+    },
+    "P007": {
+        "name": "Rohit Kumar",
+        "city": "Patna",
+        "age": 39,
+        "gender": "Male",
+        "height": 172,
+        "weight": 76,
+        "bmi": 25.7,
+        "verdict": "Overweight"
+    },
+    "P008": {
+        "name": "Neha Singh",
+        "city": "Lucknow",
+        "age": 26,
+        "gender": "Female",
+        "height": 158,
+        "weight": 54,
+        "bmi": 21.6,
+        "verdict": "Normal"
+    },
+    "P009": {
+        "name": "Vikas Reddy",
+        "city": "Hyderabad",
+        "age": 50,
+        "gender": "Male",
+        "height": 170,
+        "weight": 105,
+        "bmi": 36.3,
+        "verdict": "Obese"
+    },
+    "P010": {
+        "name": "Anjali Gupta",
+        "city": "Jaipur",
+        "age": 31,
+        "gender": "Female",
+        "height": 165,
+        "weight": 60,
+        "bmi": 22.0,
+        "verdict": "Normal"
+    }
+}
